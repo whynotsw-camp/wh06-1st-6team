@@ -1,4 +1,4 @@
-# wh06-1st-6team
+# wh06-1st-6team-yorijori
 
 # 🍳 개인 맞춤형 레시피 추천 서비스 - 요리조리
 
