@@ -4,8 +4,28 @@
 
 **LG U+ Why Not SW Camp 6기**  
 **팀명**: 요리조리  
-**참여인원**: 유승환, 주수진, 이지헌(팀장)  
-**기간**: 2025.05.07 ~ 2025.05.09  
+**기간**: 2025.05.07 ~ 2025.05.09
+
+---
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/57e0d2ee-5265-498e-945f-067402ef9e8b" width="100px;" alt="유승환"/><br />
+      <strong>유승환</strong><br />
+      🛠 역할: 사업기획, 데이터 분석, 모델링<br />
+    </td>
+    <td align="center">
+      <img src="이미지_URL_2" width="100px;" alt="주수진"/><br />
+      <strong>주수진</strong><br />
+      🛠 역할: 사업기획, 데이터 분석, 모델링<br />
+    </td>
+    <td align="center">
+      <img src="이미지_URL_3" width="100px;" alt="이지헌(팀장)"/><br />
+      <strong>이지헌(팀장)</strong><br />
+      🛠 역할: 사업기획, 데이터 분석, 모델링<br />
+    </td>
+  </tr>
+</table>
 
 ---
 
