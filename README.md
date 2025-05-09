@@ -147,3 +147,45 @@
 
 ---
 
+## 🛠 Tech Stack
+
+### 📦 Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=OpenAI&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/aiohttp-005571?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyMuPDF-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+### 🔍 Search & Recommendation
+<p align="left">
+  <img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=Meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/KoBERT-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BM25-7D4698?style=for-the-badge&logo=search&logoColor=white"/>
+</p>
+
+### 🧠 Generative AI
+<p align="left">
+  <img src="https://img.shields.io/badge/HyperCLOVA%20X-00C73C?style=for-the-badge&logo=naver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+### 🗃 Database & Storage
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=Meta&logoColor=white"/>
+</p>
+
+### ☁️ Infra / Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF4F00?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS%20Dev%20Program-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
+
+---
