@@ -12,17 +12,17 @@
     <td align="center">
       <img src="https://github.com/user-attachments/assets/4a852ead-e34e-48ba-a308-b9002c91835b" width="200px;" alt="유승환"/><br />
       <strong>유승환</strong><br />
-       역할: 사업기획, 데이터 분석, 모델링<br />
+     사업기획, 데이터 분석, 모델링<br />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/f1267652-550c-4340-98ca-4a8d6c041889" width="200px;" alt="주수진"/><br />
+      <img src="https://github.com/user-attachments/assets/f1267652-550c-4340-98ca-4a8d6c041889" width="250px;" alt="주수진"/><br />
       <strong>주수진</strong><br />
-       역할: 사업기획, 데이터 분석, 모델링<br />
+      사업기획, 데이터 분석, 모델링<br />
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/0cd3f662-d873-4c96-b4a3-85c05449f70c" width="200px;" alt="이지헌(팀장)"/><br />
       <strong>이지헌(팀장)</strong><br />
-       역할: 사업기획, 데이터 분석, 모델링<br />
+     사업기획, 데이터 분석, 모델링<br />
     </td>
   </tr>
 </table>
