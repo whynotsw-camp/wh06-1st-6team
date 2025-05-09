@@ -57,7 +57,9 @@
 ![Image](https://github.com/user-attachments/assets/e72aca1b-bfcb-4731-9684-f0a63bc8e508)
 ![Image](https://github.com/user-attachments/assets/7c1160f5-fafe-41a0-93dd-f9535a447f94)
 
-<img src="https://github.com/user-attachments/assets/7c1160f5-fafe-41a0-93dd-f9535a447f94" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/7c1160f5-fafe-41a0-93dd-f9535a447f94" width="300" height="700">
+
+
 ---
 
 ## 🧾 사용 데이터
