@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/57e0d2ee-5265-498e-945f-067402ef9e8b" width="200px;" alt="유승환"/><br />
+      <img src="https://github.com/user-attachments/assets/5a88e8e8-96b9-4ed6-aca4-1fec22f6734f" width="200px;" alt="유승환"/><br />
       <strong>유승환</strong><br />
       🛠 역할: 사업기획, 데이터 분석, 모델링<br />
     </td>
