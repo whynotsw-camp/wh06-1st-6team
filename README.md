@@ -147,9 +147,9 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 사용기술스택
 
-### 📦 Frameworks & Libraries
+### 📦 프레임워크 및 라이브러리
 <p align="left">
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=OpenAI&logoColor=white"/>  
   <img src="https://img.shields.io/badge/aiohttp-005571?style=for-the-badge&logo=python&logoColor=white"/>
@@ -159,7 +159,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-### 🔍 Search & Recommendation
+### 🔍 검색 및 추천 엔진
 <p align="left">
   <img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=Meta&logoColor=white"/>
   <img src="https://img.shields.io/badge/KoBERT-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -167,19 +167,19 @@
   <img src="https://img.shields.io/badge/BM25-7D4698?style=for-the-badge&logo=search&logoColor=white"/>
 </p>
 
-### 🧠 Generative AI
+### 🧠 생성형 AI 및 대화형 모델
 <p align="left">
   <img src="https://img.shields.io/badge/HyperCLOVA%20X-00C73C?style=for-the-badge&logo=naver&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-### 🗃 Database & Storage
+### 🗃 데이터베이스 및 저장소
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=Meta&logoColor=white"/>
 </p>
 
-### ☁️ Infra / Cloud
+### ☁️ 인프라 및 클라우드
 <p align="left">
   <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
