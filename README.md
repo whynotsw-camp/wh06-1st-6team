@@ -84,6 +84,8 @@
 
 ## 📊 데이터 활용 및 분석 방법
 
+![Image](https://github.com/user-attachments/assets/2c5d6328-0f5b-4069-aa8b-7092067a2671)
+
 
 **크롤링**  
 - YouTube Data API, Selenium, aiohttp, BeautifulSoup, PyMuPDF  
